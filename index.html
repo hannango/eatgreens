@@ -28,7 +28,15 @@
         </form>
     </div>
 
-    <script src="/js/search.js"></script>
+    <script>
+        function openPage() { 
+            var x = document.getElementById("search").value; 
+
+            if(x === "11211") { 
+            window.location.replace("./Zipcodes/11211.html");
+            }
+        }
+    </script>
 </body>
 
 </html>
