@@ -1,0 +1,127 @@
+.body { 
+    overflow-y: scroll;
+    position: absolute;
+}
+
+.home { 
+    outline: none;
+    position: fixed; 
+    width: 50px;
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    right: 200px;
+    top: 40px;
+    color: black;
+}
+
+.loginbtn { 
+    margin: 0 auto;
+    padding: 8px 20px 8px 20px;
+    border-radius: 15px;
+    border: none;
+    text-align: center;
+    position: fixed;
+    right: 30px;
+    top: 25px;
+    font-family: "Shippori Antique B1";
+    font-size: 20px;
+    background-color: transparent;
+}
+
+h1 {
+    margin: 0;
+    padding: 30px;
+    font-family: "Love Ya Like A Sister";
+    font-size: 60px;
+    text-align: center;
+    position: fixed;
+    left: 25px;
+}
+
+.address { 
+    position: fixed; 
+    font-family: "Shippori Antique B1";
+    padding: 30px;
+    font-size: 20px; 
+    left: 25px;
+    top: 60px; 
+}
+
+#img { 
+    position: fixed; 
+    left: 50px;
+    top: 200px; 
+}
+
+.hours h3 { 
+    font-family: "Love Ya Like A Sister";
+    position: fixed; 
+    font-size: 30px; 
+    top: 580px;
+    left: 50px;
+}
+
+.hours .days { 
+    position: fixed; 
+    font-family: "Shippori Antique B1";
+    font-size: 20px;
+    list-style-type: none;
+    top: 640px;
+    left: 50px;
+    overflow: auto;
+}
+
+.introduction h3 { 
+    font-family: "Love Ya Like A Sister";
+    position: fixed; 
+    font-size: 30px; 
+    top: 170px;
+    left: 530px;
+}
+
+.introduction p { 
+    position: fixed; 
+    font-family: "Shippori Antique B1";
+    font-size: 20px;
+    top: 220px;
+    left: 530px;
+}
+
+.why h3 { 
+    font-family: "Love Ya Like A Sister";
+    position: fixed; 
+    font-size: 30px; 
+    top: 340px;
+    left: 530px;
+}
+
+.why p { 
+    position: fixed; 
+    font-family: "Shippori Antique B1";
+    font-size: 20px;
+    top: 400px;
+    left: 530px;
+}
+
+.what h3 { 
+    font-family: "Love Ya Like A Sister";
+    position: fixed; 
+    font-size: 30px; 
+    top: 500px;
+    left: 530px;
+}
+
+.what h4 { 
+    font-family: "Love Ya Like A Sister";
+    position: fixed; 
+    font-size: 25px; 
+    top: 560px;
+    left: 530px;
+}
+
+.what .tempeh { 
+    position: fixed; 
+    top: 640px;
+    left: 530px;
+}
